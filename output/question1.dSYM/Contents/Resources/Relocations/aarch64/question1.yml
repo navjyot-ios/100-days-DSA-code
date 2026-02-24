@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/navjyotsingh/100-days-of-dsa/output/question1'
+relocations:     []
+...
